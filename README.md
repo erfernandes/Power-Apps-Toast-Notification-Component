@@ -1,2 +1,7 @@
 # Power Apps Toast Notification Component
-Component created for toast style notifications to be used in Power Apps Canvas Apps
+Componente criado para notificações estilo "Toast notification" para uso em aplicações do tipo Canvas.
+
+## Importando o componente
+
+![image](https://user-images.githubusercontent.com/47257185/182978197-18b6eb03-312b-46d3-a2ba-0c979ca64320.png)
+Clique em "Componentes", em seguida nos 3 pontinhos à direita ( ... ) e então "Importar componentes".
