@@ -9,4 +9,5 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 Clique em "Componentes", em seguida nos 3 pontinhos à direita ( ... ) e então "Importar componentes".
 
 ![image](https://user-images.githubusercontent.com/47257185/182978432-6fa9817b-ab94-4774-92c3-9d3dd6674eb1.png)
+
 Clique em "Carregar arquivo" e selecione o arquivo do componente.
