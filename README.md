@@ -3,5 +3,5 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 
 ## Conteúdo
 
-- [Importando o componente](./Importando componente.md)
+- [Importando o componente](https://github.com/eduardoreisfernandes/Power-Apps-Toast-Notification-Component/blob/main/Importando%20o%20componente.md)
 - [People & Body](#people--body)
