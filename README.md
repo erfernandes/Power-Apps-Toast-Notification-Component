@@ -5,7 +5,7 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 
 - [Importando o componente](https://github.com/eduardoreisfernandes/Power-Apps-Toast-Notification-Component/blob/main/Importando%20o%20componente.md)
 - [Propriedades de entrada](#proriedades-de-entrada)
-- [Propriedades de saída](#proriedades-de-said)
+- [Propriedades de saída](#proriedades-de-saída)
 
 ### Propriedades de entrada
 
