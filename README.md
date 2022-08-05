@@ -3,5 +3,5 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 
 ## Conteúdo
 
-- [Importando o componente](/Importando componente.md)
+- [Importando o componente](./Importando componente.md)
 - [People & Body](#people--body)
