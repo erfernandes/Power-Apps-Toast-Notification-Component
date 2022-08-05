@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/47257185/182978432-6fa9817b-ab94-4774-92c3-9d3dd6674eb1.png)
 
-#### Componente será importando com sucesso.
+#### Componente será importado com sucesso.
 
 ![image](https://user-images.githubusercontent.com/47257185/182978875-764ae75a-4960-475b-88e9-7a96b470d043.png)
 
