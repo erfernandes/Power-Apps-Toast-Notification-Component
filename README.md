@@ -12,9 +12,6 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 | Nome de exibição | Propriedade | Descrição | Tipo de Dados | Default |
 | - | - | - | - | - | - |
 | Notification Width | NotificationWidth | Largura da notificação | Número | 300 |
-| Notification Height | NotificationHeight | ALtura da notificação | Número | 80 |
-| Duration (ms) | Duration | Tempo de exibição da notificação (em milissegundos) | Número | 2000 |
-| Styles | Styles | Registro de estilização do componente (cores) | Registro | [ver](https://github.com/eduardoreisfernandes/Power-Apps-Toast-Notification-Component/blob/main/Importando%20o%20componente.md) |
 
 ### Propriedades de saída
 
