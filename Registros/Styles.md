@@ -13,3 +13,9 @@
     }
 }
 ```
+
+### Utilizando no componente
+
+```
+'Toast Notification'.Styles.Colors.Success
+```
