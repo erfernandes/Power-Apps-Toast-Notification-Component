@@ -12,5 +12,6 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 | Notification Width | Largura da notificação | Entrada | Número | 300 |
 
 
-| | Propriedade | Descrição | Tipo | Tipo de Dados | Default | |
-| - | Notification Width | Largura da notificação | Entrada | Número | 300 | - |
+| Propriedade | Descrição | Tipo | Tipo de Dados | Default |
+| - | - | - | - | - |
+| Notification Width | Largura da notificação | Entrada | Número | 300 |
