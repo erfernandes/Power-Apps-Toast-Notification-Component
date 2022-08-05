@@ -1,6 +1,9 @@
 # Power Apps Toast Notification Component
 Componente criado para notificações estilo "Toast notification" para uso em aplicações do tipo Canvas.
 
+![image](https://user-images.githubusercontent.com/47257185/183076234-093002a4-0d9d-4040-8727-87b202f202af.png)
+
+
 ## Conteúdo
 
 - [Importando o componente](https://github.com/eduardoreisfernandes/Power-Apps-Toast-Notification-Component/blob/main/Importando%20o%20componente.md)
