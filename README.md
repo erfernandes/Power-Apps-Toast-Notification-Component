@@ -8,5 +8,9 @@ Componente criado para notificações estilo "Toast notification" para uso em ap
 
 ### Propriedades
 
-| Propriedade | Descrição | Tipo | Tipo de Dados | Default |
+| | Propriedade | Descrição | Tipo | Tipo de Dados | Default | | 
 | Notification Width | Largura da notificação | Entrada | Número | 300 |
+
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
