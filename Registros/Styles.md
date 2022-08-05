@@ -1,3 +1,7 @@
+### Cores
+
+1. A referência de cores utilizada é a do Bootstrap.
+
 ```
 {
     Colors: 
